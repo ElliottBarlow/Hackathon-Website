@@ -21,7 +21,7 @@ Be notified when you or your trusted contacts are in danger or a natural disaste
 ## Features
 
 - Different Website Pages include: Home Page, Resource Page
-- Get Notifications For Natural Disasters Near You Using National Weather Services
+- Get A Warning For Natural Disasters Near You Using National Weather Services
 - Gets Your Location Using A Geolocation Api
 - 
 
@@ -33,7 +33,7 @@ Be notified when you or your trusted contacts are in danger or a natural disaste
 - Show Escape Routes
 
 ## To Run
-Run 'Main Page v2.html' in your browser. Other pages run off of that main one. Note that only the Home Page and Resources Page buttons work currently. 
+Run 'Main Page v2.html' in your browser using the Live Server extension from VS Code. Other pages run off of that main one. Note that only the Home Page and Resources Page buttons work currently. Since there are no alerts currently in washington, go to line 54 of 'NaturalDisasterAlert.js' and uncomment it to test the alert system.
 
 
 
